@@ -2,6 +2,7 @@
 Header: The header contains a navigation bar with elements like a logo, delivery location, search bar, sign-in option, orders, and cart. There’s also a secondary navigation panel with links to various sections like ‘Today’s Deals’, ‘Customer Service’, ‘Registry’, ‘Gift Cards’, and ‘Sell’.
 
 Hero Section: This section seems to be a banner or hero section with a message about shopping on Amazon India for local delivery, along with a link to redirect to amazon.in.
+
 Box Section: This section contains multiple boxes, each representing a different category of products such as ‘Fashion’, ‘Personal Care’, ‘Finds for Home’, ‘Amazon Gadget’, ‘Makeup’, ‘Pets Care’, ‘Toys for Home’, and ‘Fashion Show’. Each box includes a title, an image (the source of which is specified in the code), and a ‘See More’ link.
 
 Footer: The footer contains links to various other pages and information about Amazon, such as ‘Get to Know Us’, ‘Make Money with Us’, ‘Amazon Payment Products’, and ‘Let Us Help You’. It also includes copyright information.
